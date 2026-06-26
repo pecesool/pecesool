@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="IMG_2225.JPG" width="150" style="border-radius: 50%;" alt="Zhassulan Baimyshev"/>
+  <img src="photo_5328237463241168824_x.jpg" width="150" style="border-radius: 50%;" alt="Zhassulan Baimyshev"/>
 </p>
 
 <h1 align="center">Zhassulan Baimyshev</h1>
